@@ -1,2 +1,2 @@
-# test_react
-playground repository with various react libraries
+# react_playground
+Playground repository for testing of various React libraries
